@@ -34,4 +34,24 @@ public class ClassTest {
         // 成功修改类的私有属性 inner 变量值为 world changed.
         System.out.println(oneObject.getInner());
     }
+
+
+}
+
+class One {
+    private String inner = "time files.";
+
+    public void call() {
+        System.out.println("hello world.");
+    }
+
+    public String getInner() {
+        return inner;
+    }
+}
+
+class Another {
+    public void speak() {
+        System.out.println("easy coding.");
+    }
 }
