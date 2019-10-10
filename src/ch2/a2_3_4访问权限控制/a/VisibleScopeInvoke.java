@@ -1,6 +1,4 @@
-package ch2.b;
-
-import ch2.a.VisibleScope;
+package ch2.a2_3_4访问权限控制.a;
 
 /**
  * @Description
@@ -15,5 +13,6 @@ public class VisibleScopeInvoke extends VisibleScope {
         VisibleScopeInvoke visibleScopeInvoke = new VisibleScopeInvoke();
         visibleScopeInvoke.publicMethod();
         visibleScopeInvoke.protectedMethod();
+        visibleScopeInvoke.noneMethod();
     }
 }
