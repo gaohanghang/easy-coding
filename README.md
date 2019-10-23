@@ -1,5 +1,17 @@
 # 《码出高效: Java 开发手册》学习代码
 
+## 第一章 计算机基础
+
+#### 1.6.5 HTTPS (读完) 
+
+http://ghang.top/2019/10/11/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-HTTPS/
+
+## 第二章 面向对象
+
+#### 2.3.4 访问权限控制
+
+https://github.com/oriented-interview-questions-study/java-interview/issues/129
+
 ## 第三章 代码风格 (读完)
 
 ### 3.1 命名规范
@@ -29,6 +41,9 @@
 ### 4.3 内存布局（读完）
 
 https://github.com/oriented-interview-questions-study/java-interview/issues/10
+
+### 4.3 内存布局
+
 
 ## 第九章 代码规约 (读完)
 
