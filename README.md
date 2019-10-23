@@ -26,6 +26,8 @@
 
 ### 4.2 类加载过程 (读完)
 
+### 4.3 内存布局（读完）
+
 https://github.com/oriented-interview-questions-study/java-interview/issues/10
 
 ## 第九章 代码规约 (读完)
